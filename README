@@ -1,0 +1,15 @@
+Projeto exemplo que mostra como é fácil enviar eventos para o ListenToMyApp.
+Para rodar esse projeto basta ter o JDK6 e o Eclipse instalados e acesso a Internet.
+
+Para criar o aplicativo, seguimos os seguintes passos:
+1. criamos o projeto no Eclipse;
+2. adicionamos as libs necessárias;
+3. configuramos o arquivo log4j.properties, adicionando as informações necessárias ao appender4Log4j;
+4. executamos a classe EnviandoEventos através do menu Run, opção Run as Java Application.
+
+Para visualizar a mensagem enviada após a execução da classe EnviandoEventos.java:
+1. ir até http://www.listentomyapp.com/go;
+2. Logar com usuário: exemplo@listentomyapp.com, senha: exemplo;
+3. Clicar no link Eventos.
+
+Para maiores informações, consulte: http://wiki.listentomyapp.com
